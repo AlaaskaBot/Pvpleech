@@ -4,7 +4,7 @@ services:
 
   - type: web
 
-    name: spiderworkzzzz
+    name: spiderworkzz
 
     env: docker
 
